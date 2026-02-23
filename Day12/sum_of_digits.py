@@ -1,4 +1,4 @@
-# Q12: Given a number, find the sum of its digits.
+# Q12: Given a number, find the SUM of its digits.
 
 num = 456
 
